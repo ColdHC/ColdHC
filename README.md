@@ -2,7 +2,7 @@
 
 ![ColdHC — Victor Rocha Pereira](assets/coldhc-banner.svg)
 
-### Software Engineer · Backend · Applied AI
+### Software Engineer · Former Co-founder · Applied AI
 
 Building systems at the intersection of software, intelligence and creativity.
 
@@ -45,9 +45,16 @@ Building systems at the intersection of software, intelligence and creativity.
 
 </div>
 
-## 05 / Field notes
+## 05 / Professional journey
 
-- **DeepRPG** — AI platform engineering, RAG, conversational memory and agent integrations.
+<div align="center">
+
+<img src="assets/triky.svg" width="49%" alt="Triky Lab — former co-founder, software engineering, product development and commercial experience; DeepRPG was a Triky Lab product"/> <img src="assets/universo.svg" width="49%" alt="Universo Automação Comercial — current role, commercial automation technician"/>
+
+</div>
+
+- **Triky Lab / DeepRPG** — Former co-founder of Triky Lab. Worked on DeepRPG, its AI-powered RPG product, including RAG, conversational memory and agent integrations. Combined software engineering with product development and exposure to commercial operations.
+- **Universo Automação Comercial** — Commercial Automation Technician (current), working with UniPlus ERP/POS, technical troubleshooting and business workflows.
 - **Aria – Imagem e Tecnologia** — end-to-end asset management software, APIs, authentication and production delivery.
 - **Marvin Net Group** — web development and maintenance.
 - **VR Web Designer** — freelance software and web projects.
@@ -55,7 +62,7 @@ Building systems at the intersection of software, intelligence and creativity.
 <details>
 <summary>More about my background</summary>
 
-My professional experience spans software engineering, backend architecture, full-stack development and commercial automation. My technical interests include authorized OSINT, intelligent systems, worldbuilding and creative tools.
+My professional experience spans software engineering, backend architecture, full-stack development, entrepreneurship and commercial automation. I also bring foundational commercial experience alongside my technical background. My technical interests include authorized OSINT, intelligent systems, worldbuilding and creative tools.
 
 Computer Science — Estácio · Technical training in Web Design — Microlins.
 
