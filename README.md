@@ -1,95 +1,65 @@
 <div align="center">
 
-![ColdHC — Backend, Applied AI and Automation](assets/coldhc-banner.svg)
+![ColdHC — Victor Rocha Pereira](assets/coldhc-banner.svg)
 
-**I build systems that connect code, intelligence and real-world problems.**
+### Software Engineer · Backend · Applied AI
+
+Building systems at the intersection of software, intelligence and creativity.
 
 [![LinkedIn](https://img.shields.io/badge/CONNECT-LinkedIn-79dfff?style=flat-square&labelColor=142d40&logo=linkedin)](https://www.linkedin.com/in/victor-rocha-pereira-089923212/)
 [![Repositories](https://img.shields.io/badge/EXPLORE-Repositories-79dfff?style=flat-square&labelColor=142d40&logo=github)](https://github.com/ColdHC?tab=repositories)
 
 </div>
 
-### 01 / Who's behind the terminal?
-
-```yaml
-identity: Victor Rocha Pereira
-alias: ColdHC
-location: Joinville, Brazil
-background: Computer Science
-core: Python backend engineering
-interests:
-  - Applied AI and intelligent agents
-  - Automation and systems integration
-  - Open-source software
-  - Worldbuilding and digital creative tools
-```
-
-I'm drawn to problems that cross the boundaries between software, infrastructure and creativity. I work with backend systems, APIs and automation, and enjoy exploring how AI can become a useful component of real software rather than just a chat interface.
-
-My current work in commercial automation keeps me close to real operational problems. Outside work, I experiment with software, RPG tools and interactive fictional worlds.
-
-### 02 / The toolbox
-
-| Layer | Technologies |
-| :--- | :--- |
-| Backend | Python · Django · Django REST Framework · REST APIs |
-| Data | PostgreSQL · SQL · Pandas |
-| Interface | TypeScript · JavaScript · React · Next.js |
-| Infrastructure | Docker · Linux · Google Cloud · Cloud Run |
-| Workflow | Git · GitHub · Postman · CI/CD |
+## 01 / Engineering domains
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-142d40?style=for-the-badge&logo=python&logoColor=79dfff)
-![Django](https://img.shields.io/badge/Django-142d40?style=for-the-badge&logo=django&logoColor=79dfff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-142d40?style=for-the-badge&logo=postgresql&logoColor=79dfff)
-![TypeScript](https://img.shields.io/badge/TypeScript-142d40?style=for-the-badge&logo=typescript&logoColor=79dfff)
-![React](https://img.shields.io/badge/React-142d40?style=for-the-badge&logo=react&logoColor=79dfff)
-![Docker](https://img.shields.io/badge/Docker-142d40?style=for-the-badge&logo=docker&logoColor=79dfff)
+<img src="assets/engineering.svg" width="49%" alt="Software engineering: Python, Django, REST APIs, PostgreSQL, production systems"/> <img src="assets/intelligence.svg" width="49%" alt="Applied intelligence: RAG, embeddings, graph retrieval, agents, MCP and tool calling"/>
+
+<img src="assets/interface.svg" width="49%" alt="Full-stack development: React, Next.js, TypeScript and integrations"/> <img src="assets/operations.svg" width="49%" alt="Automation and infrastructure: Docker, Linux, Google Cloud and CI/CD"/>
 
 </div>
 
-### 03 / Beyond conventional software
+## 02 / Technology radar
 
-```text
-  DATA ──────► CONTEXT ──────► INTELLIGENCE
-    │             │                 │
-    ▼             ▼                 ▼
-  APIs           RAG          AI AGENTS
-    │             │                 │
-    └─────────────┴─────────────────┘
-                  ▼
-           USEFUL AUTOMATION
-```
+<div align="center">
 
-My areas of exploration include RAG, embeddings, agent orchestration, tool calling, MCP integrations, process automation and authorized OSINT with source validation.
+<img src="https://skillicons.dev/icons?i=python,django,postgres,ts,js,react,nextjs,docker,linux,gcp,git,github,postman&perline=7&theme=dark" alt="Python, Django, PostgreSQL, TypeScript, JavaScript, React, Next.js, Docker, Linux, Google Cloud, Git, GitHub and Postman"/>
 
-### 04 / The workbench
+</div>
 
-**[RPG Studio — ColdHC fork](https://github.com/ColdHC/RPG-Studio-Cold)**  
-Open-source campaign management tooling. My work focuses on improving performance, usability and the experience of creating and organizing fictional worlds.
+## 03 / Workbench
 
-**[Music Player](https://github.com/ColdHC/music-player)** · Django-based music player project.
+<div align="center">
 
-**[Weather App](https://github.com/ColdHC/weather-app)** · Python weather application.
+<a href="https://github.com/ColdHC/RPG-Studio-Cold"><img src="assets/rpg.svg" width="49%" alt="RPG Studio — open-source fork"/></a> <a href="https://github.com/ColdHC?tab=repositories"><img src="assets/python.svg" width="49%" alt="Python experiments — public repositories"/></a>
 
-**[Blog Study](https://github.com/ColdHC/Blog-study)** · Django development experiments.
+</div>
 
-[Browse all public repositories](https://github.com/ColdHC?tab=repositories)
+## 04 / Activity
 
-### 05 / Journey so far
+<div align="center">
 
-| Period | Experience |
-| :--- | :--- |
-| 2026 — present | Commercial Automation Technician |
-| 2025 — 2026 | Web Developer · DeepRPG |
-| 2024 | Software Developer · Marvin net group |
-| 2022 — 2025 | Back End Developer · Aria – Imagem e Tecnologia |
-| 2021 — 2023 | Freelance Junior Python Developer · VR Web Designer |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ColdHC&bg_color=0b1825&color=79dfff&line=79dfff&point=e9f8ff&area=true&hide_border=true&custom_title=Contribution%20Signal" width="98%" alt="GitHub contribution activity graph"/>
 
-At DeepRPG, I worked on backend systems for AI agents, REST APIs, RAG pipelines and service orchestration, alongside React/Next.js frontend development.
+</div>
 
-**Education:** Computer Science · Estácio (2022–2026) / Technical training in Web Design · Microlins (2019).
+## 05 / Field notes
+
+- **DeepRPG** — AI platform engineering, RAG, conversational memory and agent integrations.
+- **Aria – Imagem e Tecnologia** — end-to-end asset management software, APIs, authentication and production delivery.
+- **Marvin Net Group** — web development and maintenance.
+- **VR Web Designer** — freelance software and web projects.
+
+<details>
+<summary>More about my background</summary>
+
+My professional experience spans software engineering, backend architecture, full-stack development and commercial automation. My technical interests include authorized OSINT, intelligent systems, worldbuilding and creative tools.
+
+Computer Science — Estácio · Technical training in Web Design — Microlins.
+
+</details>
 
 ---
 
