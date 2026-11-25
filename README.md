@@ -9,6 +9,7 @@ Building systems at the intersection of software, intelligence and creativity.
 [![LinkedIn](https://img.shields.io/badge/CONNECT-LinkedIn-79dfff?style=flat-square&labelColor=142d40&logo=linkedin)](https://www.linkedin.com/in/victor-rocha-pereira-089923212/)
 [![Repositories](https://img.shields.io/badge/EXPLORE-Repositories-79dfff?style=flat-square&labelColor=142d40&logo=github)](https://github.com/ColdHC?tab=repositories)
 [![Email](https://img.shields.io/badge/EMAIL-vrwebdesignerr%40gmail.com-79dfff?style=flat-square&labelColor=142d40&logo=gmail)](mailto:vrwebdesignerr@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/CONTACT-WhatsApp-79dfff?style=flat-square&labelColor=142d40&logo=whatsapp)](https://wa.me/5547988697086)
 
 </div>
 
