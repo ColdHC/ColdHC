@@ -49,24 +49,23 @@ Building systems at the intersection of software, intelligence and creativity.
 
 <div align="center">
 
-<img src="assets/triky.svg" width="49%" alt="Triky Lab — former co-founder, software engineering, product development and commercial experience; DeepRPG was a Triky Lab product"/> <img src="assets/universo.svg" width="49%" alt="Universo Automação Comercial — current role, commercial automation technician"/>
+<img src="assets/universo.svg" width="49%" alt="Universo Automação Comercial — current commercial automation technician"/> <img src="assets/triky.svg" width="49%" alt="Triky Lab — former co-founder; DeepRPG product engineering and commercial experience"/>
+
+<img src="assets/aria.svg" width="49%" alt="Aria – Imagem e Tecnologia — software engineering, asset management, APIs, authentication and full-stack delivery"/> <img src="assets/marvin.svg" width="49%" alt="Marvin Net Group — web development and Shopify"/>
+
+<img src="assets/vr.svg" width="49%" alt="VR Web Designer — freelance Python and web development"/>
 
 </div>
 
-- **Triky Lab / DeepRPG** — Former co-founder of Triky Lab. Worked on DeepRPG, its AI-powered RPG product, including RAG, conversational memory and agent integrations. Combined software engineering with product development and exposure to commercial operations.
-- **Universo Automação Comercial** — Commercial Automation Technician (current), working with UniPlus ERP/POS, technical troubleshooting and business workflows.
-- **Aria – Imagem e Tecnologia** — end-to-end asset management software, APIs, authentication and production delivery.
-- **Marvin Net Group** — web development and maintenance.
-- **VR Web Designer** — freelance software and web projects.
+## 06 / Education & training
 
-<details>
-<summary>More about my background</summary>
+<div align="center">
 
-My professional experience spans software engineering, backend architecture, full-stack development, entrepreneurship and commercial automation. I also bring foundational commercial experience alongside my technical background. My technical interests include authorized OSINT, intelligent systems, worldbuilding and creative tools.
+<img src="assets/estacio.svg" width="49%" alt="Estácio — Computer Science, 2022–2026"/> <img src="assets/udesc.svg" width="49%" alt="UDESC — Computer Science studies, 2021"/>
 
-Computer Science — Estácio · Technical training in Web Design — Microlins.
+<img src="assets/microlins.svg" width="49%" alt="Microlins — technical course in Web Design, 2019"/> <img src="assets/ciep.svg" width="49%" alt="CIEP 148 — high school"/>
 
-</details>
+</div>
 
 ---
 
